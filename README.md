@@ -1,4 +1,4 @@
-#Electro
+# Electro
 Electro is an electronics e-commerce website where people can buy electronic devices , built using PHP - Laravel.
 
 ##Installation:
