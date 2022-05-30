@@ -7,7 +7,7 @@ Electro is an electronics e-commerce website where people can buy electronic dev
 3. Run " php artisan migrate  - - seed"
 4. Go to http://localhost:8000
 
-## Admin aria:
+## Admin panel:
 Electro has its own admin panel where admin has full control over electro frontend where routes begin with /admin.
  
 
@@ -16,6 +16,6 @@ Immediately after seeding data , a ready-made admin account wil be there with ty
 Email : admin@admin.com
 Password  : password
 
-##Dependencies:
+## Dependencies:
 -CKEditor 5.
 -NotyJs.
