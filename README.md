@@ -14,6 +14,7 @@ Electro has its own admin panel where admin has full control over electro fronte
 Immediately after seeding data , a ready-made admin account wil be there with typing these credentials at http://localhost:8000/login
 
 Email : admin@admin.com
+
 Password  : password
 
 ## Dependencies:
