@@ -18,4 +18,5 @@ Password  : password
 
 ## Dependencies:
 -CKEditor 5.
+
 -NotyJs.
